@@ -22,3 +22,6 @@ This project analyzes e-commerce sales data using Power BI.
 
 ## Objective
 To analyze sales performance and present key business insights through an interactive dashboard.
+## Dashboard Preview
+
+![E-commerce Sales Dashboard](Dashboard.png)
